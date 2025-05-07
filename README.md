@@ -1,5 +1,5 @@
 <!-- ![DoubleTroulePy (720 x 90 px) (7200 x 900 px)](https://user-images.githubusercontent.com/73990389/141691793-262e212d-22d4-402c-908b-192b2897698b.png) -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=doubletroublepy&theme=gruvbox)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=doubletroublepy&theme=gruvbox&show_icons=true)](https://github.com/DoubleTroublePy/DoubleTroublePy)
 
 <!--
 **DoubleTroublePy/DoubleTroublePy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
